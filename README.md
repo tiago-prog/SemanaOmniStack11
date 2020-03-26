@@ -9,5 +9,5 @@
 ## :floppy_disk: instalando projeto
 Para instalar as dependencias do projeto em sua maquina rode o sequinte comando no seu terminal dentro da pasta backend, frontend e mobile <code>npm install</code>.
 ## :computer: Iniciando servidor de desenvolvimento
-Para iniciar servidor de desenvolvimento backend, frontend e mobile basta rodar <code>npm start</code> nas duas pastas. Depois naveque até `http://localhost:3333`.
+Para iniciar servidor de desenvolvimento backend, frontend e mobile basta rodar <code>npm start</code> nas três pastas. Depois naveque até `http://localhost:3333`.
 
