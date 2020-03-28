@@ -11,12 +11,12 @@
   
   ## Back-end dependecies
   ### :large_blue_diamond: Saved Dependecies:
-    1.  celebrate": ^12.0.1
-    2.  cors: ^2.8.5
-    3.  cross-env: ^7.0.2
-    4.  express: ^4.17.1
-    5.  knex: ^0.20.13
-    6.  sqlite3: ^4.1.1
+    1. celebrate": ^12.0.1
+    2. cors: ^2.8.5
+    3. cross-env: ^7.0.2
+    4. express: ^4.17.1
+    5. knex: ^0.20.13
+    6. sqlite3: ^4.1.1
   ### :large_orange_diamond: Development Dependencies
     1. jest: ^25.2.3
     2. nodemon: ^2.0.2
