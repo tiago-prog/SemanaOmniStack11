@@ -12,7 +12,7 @@ Para instalar as dependencias do projeto em sua maquina rode o sequinte comando 
 ## :computer: Iniciando servidor de desenvolvimento do Backend e Frontend
   Para inicar o servidor você tera que ir até as duas pastas frontend e backend no seu terminal e digite <code>npm start</code>
 ## :iphone: Iniciando a aplicação mobile
-  1. Para que sejá possivel você iniciar a aplicação mobile, em seu smartfone deve instalar uma aplicativo chamado [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent)
+  1. Para que sejá possivel você iniciar a aplicação mobile, em seu smartfone deve instalar uma aplicativo chamado [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent) em seu dispositivo móvel.
   
   2. E depois de instalar o app Expo você tem que ter ativo em seu smartfone a Depuração USB (USB Debugger). Para ativar esta fucnionalidade em seu dispositivo seque o [link](https://docs.rocketseat.dev/ambiente-react-native/usb/android)
   
