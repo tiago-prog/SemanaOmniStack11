@@ -10,7 +10,7 @@
   <summary>Clique para mais detalhes!</summary>
   
   ## Back-end dependecies
-  ### :large_blue_diamond: Save Dependecies:
+  ### :large_blue_diamond: Saved Dependecies:
     1.  celebrate": ^12.0.1
     2.  cors: ^2.8.5
     3.  cross-env: ^7.0.2
@@ -22,7 +22,7 @@
     2. nodemon: ^2.0.2
     3. supertest: ^4.0.2
  ## Front-end dependencies
- ### :large_blue_diamond: Save Dependecies
+ ### :large_blue_diamond: Saved Dependecies
     1. @testing-library/jest-dom: ^4.2.4
     2. @testing-library/react: ^9.3.2
     3. @testing-library/user-event: ^7.1.2
@@ -33,7 +33,7 @@
     8. react-router-dom: ^5.1.2
     9. react-scripts: 3.4.1
  ## Mobile Dependencies
- ### :large_blue_diamond: Save Dependencies
+ ### :large_blue_diamond: Saved Dependencies
     @react-native-community/masked-view: 0.1.5
     @react-navigation/native: ^5.1.3
     @react-navigation/stack": ^5.2.7
