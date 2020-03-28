@@ -22,7 +22,7 @@
     2. nodemon: ^2.0.2
     3. supertest: ^4.0.2
  ## Front-end dependencies
- ### :large_blue_diamond: Dependecies
+ ### :large_blue_diamond: Save Dependecies
     1. @testing-library/jest-dom: ^4.2.4
     2. @testing-library/react: ^9.3.2
     3. @testing-library/user-event: ^7.1.2
