@@ -14,7 +14,7 @@ Para instalar as dependencias do projeto em sua maquina rode o sequinte comando 
 ## :iphone: Iniciando a aplicação mobile
   1. Para que sejá possivel você iniciar a aplicação mobile, em seu smartfone deve instalar uma aplicativo chamado [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent) em seu dispositivo móvel.
   
-  2. E depois de instalar o app Expo você tem que ter ativo em seu smartfone a Depuração USB (USB Debugger). Para ativar esta fucnionalidade em seu dispositivo seque o [link](https://docs.rocketseat.dev/ambiente-react-native/usb/android)
+  2. E depois de instalar o app Expo você tem que ter ativo em seu smartfone a Depuração USB (USB Debugger). Para ativar está fucnionalidade em seu dispositivo seque o [link](https://docs.rocketseat.dev/ambiente-react-native/usb/android)
   
   3. Logo após ligar a depuração usb no terminal abra a pasta rode o sequinte comando <code>npm install</code> isso pode demorar um pouco dependendo da conexão da sua internet.
   
