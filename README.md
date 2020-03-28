@@ -3,7 +3,7 @@
 
 :black_circle: Tecnologias utilizadas no frontend: [#ReactJS](https://pt-br.reactjs.org/) e [#axios](https://www.npmjs.com/package/axios)
 
-:black_circle: Tecnologias utilizadas no mobile: Em desenvolvimento!
+:black_circle: Tecnologias utilizadas no mobile: [ReactNative](https://reactnative.dev/), [React Native Navigation](https://reactnavigation.org/)
 
 ## :rocket: Nova semana de aulas gratuitas da [RocketSeat](https://rocketseat.com.br/)
 ## :floppy_disk: instalando projeto
