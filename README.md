@@ -66,7 +66,7 @@ Para instalar as dependencias do projeto em sua maquina rode o sequinte comando 
   
   3. Logo após ligar a depuração usb no terminal abra a pasta rode o sequinte comando <code>npm install</code> isso pode demorar um pouco dependendo da conexão da sua internet.
   
-  4. Ao rodar o comando que especifiquei acima ele irá abrir uma aba no seu navegador sozinho, então é só você clicar no botão que diz <code>Run on Android device/emulator</code> lembrando que você que estar com o Expo app aberto em seu dispositivo móvel com o cabo USB liga e com a Depuração USB funcionando.
+  4. Ao rodar o comando que especifiquei acima ele irá abrir uma aba no seu navegador sozinho, então é só você clicar no botão que diz <code>Run on Android device/emulator</code>. Lembrando que você que estar com o Expo app aberto em seu dispositivo móvel com o cabo USB liga e com a Depuração USB funcionando.
 
 
 
