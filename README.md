@@ -1,6 +1,6 @@
 # Semana OmniStack 11º Edição
 ## :rocket: Nova semana de aulas gratuitas da [RocketSeat](https://rocketseat.com.br/)
-  Essa é uma aplicação desenvolvida para ajudar ONG´s que necessitam de ajuda financeira. As ONGs que cadastrarem casos na nossa aplicação web poderão receber ajuda de usuários que utilizam a aplicação móvel, e lá estara listados todos os casos (junto com o E-mail e Whatsaṕp) de todas as ONGs e assim o usuário podera escolher qual caso de qual ONG ele quer contribuir com o valor especifc do caso.
+  Essa é uma aplicação desenvolvida para ajudar ONG´s que necessitam de ajuda financeira. As ONGs que cadastrarem casos na nossa aplicação web poderão receber ajuda de usuários que utilizam a aplicação móvel, e lá estara listados todos os casos (junto com o E-mail e Whatsaṕp) de todas as ONGs e assim o usuário podera escolher qual caso de qual ONG ele quer contribuir com o valor especifico do caso.
 ## Tenologias da semana
 :black_circle: Tecnologias utilizadas no backend: [#NodeJS](https://nodejs.org/en/), [#knex](http://knexjs.org/) (SQL Query Builder for JS) e [#Express](https://expressjs.com/pt-br/), TDD ([Jest](https://jestjs.io/pt-BR/), [supertest](https://github.com/visionmedia/supertest)), Validators ([celebrate](https://github.com/arb/celebrate))
 
